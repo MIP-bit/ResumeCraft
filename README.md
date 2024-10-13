@@ -1,10 +1,8 @@
-# CodeClauseInternship_Interactive-Resume-Builder
+# ResumeCraft
 Creating a web application that allows users to input their details and generates an  interactive, visually appealing resume. Including features like customizable templates and export options.
-# CodeClauseInternship_Resume_Builder
+# ResumeCraft
 
 Resume Builder Live Demo [link here](https://sanket-santoki.github.io/CodeClauseInternship_Resume_Builder/)
-
-Github Profile [link](https://github.com/sanket-santoki/)
 
 ![app](assets/Resume1.png) 
 ![app](assets/Resume2.png)
@@ -35,7 +33,6 @@ Bootstrap
 JavaScript
 
 # Credits:
-Developed by Sanket Santoki
-Internship at CodeClause
+Developed by Manyata Ghadei
 
 Thank you for checking out our Resume Builder Project. Stay informed, stay connected!
