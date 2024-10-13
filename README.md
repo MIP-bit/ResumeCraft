@@ -2,10 +2,9 @@
 Creating a web application that allows users to input their details and generates an  interactive, visually appealing resume. Including features like customizable templates and export options.
 # ResumeCraft
 
-Resume Builder Live Demo [link here](https://sanket-santoki.github.io/CodeClauseInternship_Resume_Builder/)
 
-![app](assets/Resume1.png) 
-![app](assets/Resume2.png)
+![app](assets/Front.png) 
+![app](assets/Resume.png)
 
 # Resume Builder
 Build your professional resume with ease using this Resume Builder App. This application, developed with HTML, CSS, Bootstrap, and JavaScript, offers an intuitive interface for creating, customizing, and downloading resumes.
